@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Logger"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "iOS and macOS Logger"
   spec.homepage     = "https://github.com/Vinogradov7511339/Logger"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
