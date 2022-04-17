@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.osx.deployment_target = "12.0"
   spec.watchos.deployment_target = "3.0"
   spec.tvos.deployment_target = "10.0"
-  spec.source       = { :git => "https://github.com/Vinogradov7511339/Logger/Logger.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/Vinogradov7511339/Logger.git", :tag => "#{spec.version}" }
   spec.source_files  = "Source/*.swift"
 end
