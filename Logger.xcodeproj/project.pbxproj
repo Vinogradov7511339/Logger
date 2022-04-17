@@ -97,7 +97,7 @@
 			children = (
 				AD5BBFA3280AC853009878FC /* Logger.h */,
 				AD5BBFA4280AC853009878FC /* Logger.docc */,
-				AD5BBFBA280AC8C4009878FC /* Logger.swift */,
+				AD5BBFBD280C98C6009878FC /* Source */,
 			);
 			path = Logger;
 			sourceTree = "<group>";
@@ -108,6 +108,14 @@
 				AD5BBFAF280AC853009878FC /* LoggerTests.swift */,
 			);
 			path = LoggerTests;
+			sourceTree = "<group>";
+		};
+		AD5BBFBD280C98C6009878FC /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				AD5BBFBA280AC8C4009878FC /* Logger.swift */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 		EBF280487B7462076F2F9C37 /* Pods */ = {
